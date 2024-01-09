@@ -118,4 +118,3 @@ def process_file(filename, algorithm, param):
         print('averages:',(a/count), 'moves,',(states/count),'states tested')
     file.close
 
-print(process_file('5_moves.txt','BFS',5))

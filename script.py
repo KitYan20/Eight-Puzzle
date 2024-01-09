@@ -26,15 +26,19 @@ if __name__ == '__main__':
         number = int(number)
         print()
         if number == 1:
+            print("Testing BFS ...")
             print(process_file('5_moves.txt','BFS',5))
             break
         elif number == 2:
+            print("Testing DFS ...")
             print(process_file('5_moves.txt','DFS',5))
             break
         elif number == 3:
+            print("Testing Greedy ...")
             print(process_file('5_moves.txt','Greedy',h2))
             break
         elif number == 4:
+            print("Testing A* ...")
             print(process_file('5_moves.txt','A*',h2))
             break
         else:
