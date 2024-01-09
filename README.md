@@ -7,12 +7,12 @@ This is a classic Eight Puzzle game that has been designed to test the efficienc
 
 Feel free to test out the code and see what results you can get!
 
-# To start, run this line on your terminal:
+## To start, run this line on your terminal:
 
 `python script.py`
 
-# It will prompt you to selecting which algorithm to test. Feel free to change the parameters ex: _moves/txt files to see how well each algorithm will perform given a different number of moves to solve.
+It will prompt you to selecting which algorithm to test. Feel free to change the parameters ex: _moves/txt files to see how well each algorithm will perform given a different number of moves to solve.
 
-# Here is a screenshot of the menu options and the output of selecting a algorithm option:
+## Here is a screenshot of the menu options and the output of selecting a algorithm option:
 
 ![Description of the image](./img/solutions.png)
